@@ -1,5 +1,5 @@
 This Repository is all about AWS VPC Practicals using below diagram 
 
 
-![VPC+NACL+SG_Practicals](VPC Diagram.jpg)
+![image](https://github.com/user-attachments/assets/08a29377-445b-41f9-a24d-7ea2246951b0)
 
